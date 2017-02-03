@@ -1,15 +1,21 @@
 body {
-	background: light grey;
+	background: Ligt grey;
 }
 
 
 .page {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	border: solid;
-	width: 300px;
+	width: 960px;
+	height: 650px;
 	background: #4aaaa5;
 	padding: 30px;	
 	
+}
+
+.element{
+	float: left;
+	padding-right: 10px;
 }
 
 .portfolio {
